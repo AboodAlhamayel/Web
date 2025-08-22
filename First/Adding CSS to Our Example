@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My First Page</title>
+
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #f0f0f0;
+      }
+      h1 {
+        color: blue;
+      }
+      p {
+        color: #333;
+        font-size: 16px;
+      }
+      b {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to HTML</h1>
+    <p>This is my <b>first</b> paragraph</p>
+    <p>This is my <b>second</b> paragraph</p>
+    <p>This is my third paragraph</p>
+  </body>
+</html>
