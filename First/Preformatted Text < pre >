@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <pre>
+      Hi, My name is Abood al-hamayel
+
+      
+                        I love Programming
+            I live in jordan               My age is 22 years old
+                    I love to learn new things
+    </pre>
+
+    <!-- note: The HTML <pre> tag is used to display preformatted text -->
+    <!-- note: This tag is crucial for save both spaces and line breaks -->
+  </body>
+</html>
