@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p>
+      Hi, My name is Abood al-hamayel <br /><br />
+      I love Programming <br />I live in jordan <br />My age is 22 years old
+      <br /><br />
+      I love to learn new things<br /><br />
+    </p>
+
+    <!-- note: <br> tag is a simple but powerful element used to insert line breaks in text -->
+    <!-- note: unlike paragraph tags , <br> does not create any additional margin or padding around the break -->
+  </body>
+</html>
