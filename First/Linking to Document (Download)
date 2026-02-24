@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="font-size: 20px;"> 
+
+    <p>
+        you can download document
+        <a href="test.pdf" download title="Download test.pdf">Download Document</a>
+    </p>
+    <p>
+        you can download file
+        <a href="test.rar" download title="Download test.rar">Download File</a>
+    </p>
+
+</body>
+</html>
